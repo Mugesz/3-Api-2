@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    color: rgb(12, 9, 173);
+}
+
+.card-body{
+    background-color: aquamarine;
+    text-align: center;
+}
